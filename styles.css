@@ -1,0 +1,47 @@
+	* {cursor: url(https://github.com/OliCSH/renaissance-home/blob/main/cursor2.png?raw=true), auto !important;}
+        body {
+            background-image: url('https://github.com/OliCSH/renaissance-home/blob/main/tilebg.gif?raw=true');
+            border-image-repeat: repeat;
+        }
+        .title {
+            font-size: 60px;
+            color: #ffffff;
+            background: linear-gradient(#ffffffad 0, #ffffff5e 50%, #ffffff38 51%, #7070703f 100%);
+            font-family: Verdana, Geneva, Tahoma, sans-serif ;
+            text-align: center;
+            padding-top: 50px;
+            padding-bottom: 50px;
+            backdrop-filter: blur(3px);
+        }
+        .subtitle {
+            font-size: 20px;
+            color: #000000;
+            background: linear-gradient(#ffffffad 0, #ffffff5e 50%, #ffffff38 51%, #7070703f 100%);
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+            text-align: center;
+            padding-left: 0px;
+            padding-bottom: 0px;
+            backdrop-filter: blur(3px);
+        }
+        p {
+            font-size: 15px;
+            color: #000000;
+            background: linear-gradient(#ffffffad 0, #ffffff5e 50%, #ffffff38 51%, #7070703f 100%);
+            font-family: Verdana, Geneva, Tahoma, sans-serif ;
+            text-align: center;
+            padding-top: 15px;
+            padding-bottom: 20px;
+            backdrop-filter: blur(3px);
+        }
+        hr {
+            background: #ffffff;
+            height: 5px;
+            border: none;
+        }
+        img {
+            height: 320;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: auto;
+        }
