@@ -2,6 +2,7 @@
         body {
             background-image: url('https://github.com/OliCSH/renaissance-home/blob/main/tilebg.gif?raw=true');
             border-image-repeat: repeat;
+			background-attachment: fixed;
         }
         .title {
             font-size: 60px;
@@ -44,4 +45,5 @@
             margin-left: auto;
             margin-right: auto;
             width: auto;
+
         }
